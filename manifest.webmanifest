@@ -1,0 +1,17 @@
+{
+  "name": "Mindstash – Daily Growth",
+  "short_name": "Mindstash",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f3ee",
+  "theme_color": "#101714",
+  "description": "Dein persönlicher Begleiter für tägliches Lernen.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
